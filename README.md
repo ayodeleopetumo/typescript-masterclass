@@ -24,7 +24,7 @@ That's about it for tooling you'll need to run the project, let's move onto the 
 Now you've pulled down the repo and have everything setup, using the terminal you'll need to `cd` into the directory that you cloned the repo into and run some quick tasks:
 
 ```bash
-cd <typescript-masterclass-seed>
+cd <typescript-masterclass>
 yarn install
 # OR
 npm install
